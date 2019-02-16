@@ -18,8 +18,7 @@ I am a junior studying Chemical Engineering.
 Make a 3rd level header with your name:
 
 <!--- Write your answer here. --->
-###Yeonjin Yun
-
+### Yeonjin Yun
 
 ## Emphasis
 
@@ -99,9 +98,8 @@ Create a table listing your 3 favorite animals, books, and places on campus. Use
 | Animals |  foods   | books | places |
 |:------- |:--------:|:-----:| ------:|
 | Cat     | Wings | Harry Potter | Carpenter Hall |
-| Dog     | Noodle Bowl | The chronicles of Narnia | Olin Library |
+| Dog     | Noodle Bowl | The chronicles of Narnia | Sage Hall |
 | Turtle  | Steak | Sherlock Holmes | Goldies |
-| Whale | Pasta | Twilight | Sage Hall |
 
 ## Blockquotes
 
