@@ -127,7 +127,6 @@ plt.plot(TempArray, Re)
 plt.xlabel('Temperature (Kelvin)')
 plt.ylabel('Reynolds Number')
 plt.title('Reynolds Number at different temperatures')
-plt.savefig('./Images/ReynoldsNum.png')
 plt.show()
 ```
 
